@@ -1,0 +1,10 @@
+# Starting to profile: data/BDNF_codon_aligned.fasta
+# Loading complete
+# Loaded an alignment from: data/BDNF_codon_aligned.fasta
+# This alignment contains 304 sequences
+# This alignment contains 549 sites
+# Number of invariant sites in alignment: 87
+# Fraction of invariant sites in alignment: 0.15846994535519127
+# Average measure of gappiness in alignment is: 0.509311187805579
+# Maximum measure of gappiness in alignment at a particular site is: 1.0
+# Minimum measure of gappiness in alignment at a particular site is: 0
